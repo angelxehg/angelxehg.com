@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /404
+Disallow: /about
+Disallow: /skills
+Sitemap: https://angelxehg.github.io/sitemap.xml
+Host: https://angelxehg.github.io
