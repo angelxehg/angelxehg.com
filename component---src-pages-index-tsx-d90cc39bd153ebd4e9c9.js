@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkangelxehg_github_io=self.webpackChunkangelxehg_github_io||[]).push([[691],{1713:function(e,n,u){u.r(n);var l=u(7294);n.default=function(){return l.createElement("div",null,l.createElement("p",null,"Hola mundo!"))}}}]);
-//# sourceMappingURL=component---src-pages-index-tsx-d90cc39bd153ebd4e9c9.js.map

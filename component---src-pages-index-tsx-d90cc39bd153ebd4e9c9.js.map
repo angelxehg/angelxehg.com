@@ -1,1 +1,0 @@
-{"version":3,"file":"component---src-pages-index-tsx-d90cc39bd153ebd4e9c9.js","mappings":"oJAQA,UANkB,kBAChB,2BACE","sources":["webpack://angelxehg.github.io/./src/pages/index.tsx"],"sourcesContent":["import React from \"react\"\n\nconst IndexPage = (): JSX.Element => (\n  <div>\n    <p>Hola mundo!</p>\n  </div>\n)\n\nexport default IndexPage\n"],"names":[],"sourceRoot":""}
