@@ -7,9 +7,19 @@
   Referrer-Policy: same-origin
 /commons-2909c97995f2253c4d96.js
   Cache-Control: public, max-age=31536000, immutable
-/4d834436a2048b68d1152f937ea115fc37074b1e-1f007822c367b5676971.js
+/d71629d833e8e7dccd9db19b14acc8c2f4a5a1c7-a238b3139690ec086765.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-page-tsx-73790ba2559f541a7215.js
+/component---src-templates-page-tsx-content-file-path-users-angel-projects-portfolio-angelxehg-github-io-content-projects-ionic-firebase-demo-md-cb168f29a45102aacbd4.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-page-tsx-content-file-path-users-angel-projects-portfolio-angelxehg-github-io-content-projects-djangofire-md-1cbaff55d7c55297ed9a.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-page-tsx-content-file-path-users-angel-projects-portfolio-angelxehg-github-io-content-projects-react-capacitor-examples-md-3c1ba3af88077cc916ac.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-page-tsx-content-file-path-users-angel-projects-portfolio-angelxehg-github-io-content-projects-studylater-md-5a97714b5dc027904807.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-page-tsx-content-file-path-users-angel-projects-portfolio-angelxehg-github-io-content-projects-tomatoe-chat-md-4955c1366c17981d3b9c.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-page-tsx-content-file-path-users-angel-projects-portfolio-angelxehg-github-io-content-projects-xpress-library-md-e0c346b84477a96d4701.js
   Cache-Control: public, max-age=31536000, immutable
 /styles.ae33ae11bfdca1bbf239.css
   Cache-Control: public, max-age=31536000, immutable
@@ -19,19 +29,19 @@
   Cache-Control: public, max-age=31536000, immutable
 /24527fd91f09a965b3de7675dd3d25f3404ee39d-bf7229cabc2fbc4cc6db.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-index-tsx-371ba82a489f8bb48f2f.js
+/component---src-pages-index-tsx-273533e3f26c223964a5.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-posts-tsx-8d4ba5404a0badd9e8a6.js
+/component---src-pages-posts-tsx-5df457d6123fe5466720.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-projects-tsx-66ee09e28eb027456c01.js
+/component---src-pages-projects-tsx-7301810016826867a918.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-skills-tsx-6cded9ce9daaf52d7082.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-3f89fa1d23bc1dc147ea.js
+/webpack-runtime-e757016b53e66e04220a.js
   Cache-Control: public, max-age=31536000, immutable
 /framework-c044d8924e8a712d311e.js
   Cache-Control: public, max-age=31536000, immutable
-/app-deabc3b87caa7cbba624.js
+/app-ce179d3cef80858f465a.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
