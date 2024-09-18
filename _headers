@@ -13,7 +13,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /app-0a2a36fbc7f145b525e4.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-78ec47f774c8b7f681ed.js
+/webpack-runtime-d4d2ad09b471315f05dc.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-404-tsx-7491974798aa5198bee6.js
   Cache-Control: public, max-age=31536000, immutable
@@ -25,7 +25,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /app-0a2a36fbc7f145b525e4.js.map
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-78ec47f774c8b7f681ed.js.map
+/webpack-runtime-d4d2ad09b471315f05dc.js.map
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-404-tsx-7491974798aa5198bee6.js.map
   Cache-Control: public, max-age=31536000, immutable
@@ -34,6 +34,8 @@
 /framework-456abaa85bc86eec5251.js.map
   Cache-Control: public, max-age=31536000, immutable
 /commons-8c53d444bb62e25858f2.js.map
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-78ec47f774c8b7f681ed.js.map
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
